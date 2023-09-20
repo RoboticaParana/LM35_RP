@@ -1,0 +1,25 @@
+/* 
+ * 
+ * Biblioteca LM35_RP 
+ * 
+ * VERSION: 1.0.0
+ * 
+ * Author: Cleiton Rosa
+ * 
+ * Esta biblioteca define um pino para leitura do sensor LM35,
+ * e converte os valores analógios obtidos para as escalas 
+ * Celsius, Fahrenheit ou Kelvin.
+ * 
+ * Comandos 
+ * 
+ * Defina o pino com o comando
+ * LM35_RP name_do_objeto(pino_Analogico);
+ * exemplo LM35_RP lm35(A0);
+ * 
+ * obter as temperatuad com os comandos:
+ * name_do_objeto.obterCelsius() 
+ * name_do_objeto.obterFahrenheit() 
+ * name_do_objeto.obterKelvin() 
+ * 
+ * 
+*/

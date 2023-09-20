@@ -1,0 +1,4 @@
+LM35_RP	KEYWORD1
+obterCelsius	KEYWORD2
+obterFahrenheit	KEYWORD2
+obterKelvin	KEYWORD2
