@@ -16,7 +16,7 @@ void loop() {
   Serial.print(lm35.obterCelsius());
   Serial.print("ºC\t");   
   Serial.print(lm35.obterFahrenheit());
-  Serial.print("F\t);
+  Serial.print("F\t");
   Serial.print(lm35.obterKelvin());
   Serial.println("K");
   /* Imprime uma linha em branco.            */
